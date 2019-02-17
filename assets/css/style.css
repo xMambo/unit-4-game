@@ -1,0 +1,52 @@
+body, html {
+  height: 100%;
+}
+p {
+font-size: 14px;
+}
+.bg {
+    /* The image used */
+  background-image: url("../../assets/images/vivi.jpg");
+  
+  /* Full height */
+  height: 120%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.5;
+  position: relative;
+}
+.jumbotron {
+    padding: 0;
+    background: rgba(255, 255, 255, 0.4);
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 0;
+    text-align: center;
+}
+.display-4 {
+    font-size: 40px;
+    
+
+}
+.floatbox {
+    position: absolute;
+    top: 80px;
+}
+
+.materia {
+    width: 170px;
+}
+
+h1{
+    margin-bottom: 20px;
+}
+
+.results {
+    text-align: center;
+    width: 170px;
+    
+}
