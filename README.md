@@ -34,4 +34,8 @@ crystal game
 
 * The random number shown at the start of the game should be between 19 - 120.
 
+<<<<<<< HEAD
 * Each crystal should have a random hidden value between 1 - 12.
+=======
+* Each crystal should have a random hidden value between 1 - 12.
+>>>>>>> 12233acdefb5c1353a10e96d2282add97c60e727

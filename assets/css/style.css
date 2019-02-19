@@ -24,7 +24,7 @@ font-size: 14px;
     width: 50%;
     margin-right: auto;
     margin-left: auto;
-    margin-bottom: 0;
+    margin-bottom: 30px;
     text-align: center;
 }
 #computerscore {
@@ -44,22 +44,6 @@ font-size: 14px;
     width: 170px;
 }
 
-.greenmateria {
-    width: 170px;
-}
-
-.redmateria {
-    width: 170px;
-}
-
-.bluemateria {
-    width: 170px;
-}
-
-.yellowmateria {
-    width: 170px;
-}
-
 h1{
     margin-bottom: 20px;
 }
@@ -74,4 +58,8 @@ h1{
     text-align: center;
     width: 170px;
     
+}
+
+.col-sm-3 {
+    text-align: center;
 }
