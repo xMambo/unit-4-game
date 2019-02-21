@@ -1,23 +1,27 @@
-body, html {
-  height: 100%;
+body,
+html {
+    height: 100%;
 }
+
 p {
-font-size: 14px;
+    font-size: 14px;
 }
+
 .bg {
     /* The image used */
-  background-image: url("../../assets/images/vivi.jpg");
-  
-  /* Full height */
-  height: 120%;
+    background-image: url("../../assets/images/vivi.jpg");
 
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  opacity: 0.5;
-  position: relative;
+    /* Full height */
+    height: 120%;
+
+    /* Center and scale the image */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.5;
+    position: relative;
 }
+
 .jumbotron {
     padding: 0;
     background: rgba(255, 255, 255, 0.4);
@@ -27,6 +31,7 @@ font-size: 14px;
     margin-bottom: 30px;
     text-align: center;
 }
+
 #computerscore {
     font-size: 30px;
 }
@@ -35,6 +40,7 @@ font-size: 14px;
     font-size: 30px;
 
 }
+
 .floatbox {
     position: absolute;
     top: 80px;
@@ -44,20 +50,20 @@ font-size: 14px;
     width: 170px;
 }
 
-h1{
+h1 {
     margin-bottom: 20px;
 }
 
 .winresults {
     text-align: center;
     width: 170px;
-    
+
 }
 
 .lossresults {
     text-align: center;
     width: 170px;
-    
+
 }
 
 .col-sm-3 {
