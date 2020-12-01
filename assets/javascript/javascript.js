@@ -82,9 +82,9 @@ $(document).ready(function () {
     sum.length = 0;
     totalScoreDOM.text("Score " + "0");
     genCrystalValues();
-    //console.log(greenValue, redValue, blueValue, yellowValue);
+    console.log(greenValue, redValue, blueValue, yellowValue);
     genComputerScore();
-    //console.log(computerScore);
+    console.log(computerScore);
     //console.log(totalScore);
   }
 
